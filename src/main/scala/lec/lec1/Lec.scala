@@ -1,4 +1,4 @@
-package lec
+package lec.lec1
 
 object HelloWorld {
   def main(args: Array[String]): Unit = {
